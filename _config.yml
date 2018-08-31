@@ -1,12 +1,12 @@
 # Site settings
-title: BoHu
+title: 新村水产
 url: "http://zhaoyuxiang.cn/blog"    # the protocol and hostname of your site, eg. `http://zhaoyuxiang.cn/blog`
 baseurl: "/bohu-jekyll-theme" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/`
 #timezone: Asia/Shanghai
-description: 天道总司的个人博客网站,前端HTML、HTML5、CSS、CSS3、JavaScript、JQuery等编程经验总结分享。
+description: 新村水产的专属网站
 # Your information
-email: me@zhaoyuxiang.cn
-author: Clark #yourname #天道总司
+email: 593844923@qq.com
+author: 曾振辉 #yourname #天道总司
 place: yourhometown #杭州
 domain: yourdoamain #互联网
 company: yourcompany #Jeeyoo
@@ -15,9 +15,6 @@ school: yourschool #浙江科技学院
 major: yourmajoy #测控技术与仪器
 resume: "http://zhaoyuxiang.cn/cv"
 profile: Time is money. #yourmotto #聪明在于勤奋，天才在于积累。
-twitter_username: zyx19936688
-weibo_username:  zhaoyuxiang
-github_username:  Clark-Zhao
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
@@ -33,7 +30,7 @@ gems:
  - jemoji
 
 # Build settings
-paginate: 2
+paginate: 5
 paginate_path: "/page:num"
 
 highlighter: rouge
