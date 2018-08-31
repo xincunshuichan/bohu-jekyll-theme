@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Whats Jekyll?
-author: CK
-date:   2016-04-23
+title: 20180831库存更新
+author: 阿辉
+date:   2018-08-31
 categories: Jekyll
 permalink: /archivers/Whats-Jekyll
 ---
 
-<p class="lead"> <a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.</p>
+> 5两：200块／1斤
+> 3两：999块／1斤
 
-From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
-
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
+以上信息更新于2018-08-31，消息随时变动，欲来抓鱼请先打电话确认，谢谢！
+阿辉：1234567890
+座机：021-123456
